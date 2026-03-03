@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">* Estudante de tecnologia <br>* Desenvolvedor de sistemas Junior<br>* Analista TI<br>* Habilidade em Microsoft 365</p>
+<p align="left">* Estudante de tecnologia <br>* Desenvolvedor de sistemas Junior<br>* Analista TI<br>* </p>
 
 ###
 
